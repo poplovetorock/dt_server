@@ -812,7 +812,7 @@ cipher_server="ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-E
 
 sd="https://github.com/pymumu/smartdns/releases/download/Release30/smartdns.1.2020.02.25-2212.x86_64-debian-all.deb"
 
-bbrplusFile="https://raw.githubusercontent.com/jacyl4/de_GWD/master/resource"
+bbrplusFile="https://github.com/jacyl4/de_GWD/tree/master/resource"
 
 kernel_version="4.14.168-bbrplus"
 
